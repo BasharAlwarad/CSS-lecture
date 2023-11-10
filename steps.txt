@@ -1,0 +1,36 @@
+default styling in HTML
+
+inline styling in HTML 90% oh HTML elements take an attribute of style
+
+wyh internal styling?
+
+target by id select multiple elements with different IDs and give them one style.
+
+which {
+   what: hwo;
+   what: hwo;
+   what: hwo;
+} 
+
+change the target from IDs to classes
+
+do the same in another HTML page.
+
+what is css?
+wyh external styling?
+
+link element in HTML
+
+create css file move all previous styles to css.
+create one more css file. and use both.
+
+introduce W3schools
+
+redo the selectors targeting from the css file.
+
+what is Cascading?
+
+specificity
+specificity overwrite line order
+
+
